@@ -1,6 +1,6 @@
 # Bola mágica
 
-Bola mágica para quem não sabe é uma aplicação baseada em um brinquedo no qual você faz perguntas para a bola e ela te responde, uma boa referência é no filme ToyStory onde Woody utiliza a bola mágica. 
+Bola mágica é uma aplicação baseada em um brinquedo no qual você faz perguntas para a bola e ela te responde, uma boa referência é no filme ToyStory onde Woody utiliza a bola mágica. 
 
 Link abaixo do video com a referência que eu citei acima.
 
