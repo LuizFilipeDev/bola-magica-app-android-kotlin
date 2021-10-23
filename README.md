@@ -1,6 +1,9 @@
 # Bola mágica
 
-Bola mágica é uma aplicação simples criada apenas para estudo baseada em um brinquedo no qual você faz perguntas para a bola mágica e ela te responde, uma boa referência é no filme ToyStory onde Woody utiliza a bola mágica.
+Aplicação desenvolvida no android studio.
+
+## Mais sobre
+Bola mágica é uma aplicação simples criada apenas para fins de estudo baseada em um brinquedo no qual você faz perguntas para ele e ele te responde, uma boa referência é no filme ToyStory onde Woody utiliza a bola mágica.
 
 Link abaixo do vídeo com a referência do ToyStory que eu citei acima.
 
