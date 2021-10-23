@@ -8,4 +8,4 @@ https://www.youtube.com/watch?v=mFOracFClBg&ab_channel=ScreenBlaster13
 
 ## Screenshot
 
-![bola-magica-screenshot](https://user-images.githubusercontent.com/74942532/138537453-40c2817d-ad6f-4f28-8f1d-ca335fab19dc.png)
+![bola-magica-screenshot](https://user-images.githubusercontent.com/74942532/138538129-72feb1da-ec62-45fd-9f10-e897ad18085c.png)
