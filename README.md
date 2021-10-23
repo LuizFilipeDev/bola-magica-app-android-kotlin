@@ -2,7 +2,7 @@
 
 Bola mágica para quem não sabe é uma aplicação baseada em um brinquedo no qual você faz perguntas para a bola e ela te responde, uma boa referência é no filme ToyStory onde Woody utiliza a bola mágica.
 
-[link text](https://www.youtube.com/watch?v=mFOracFClBg&ab_channel=ScreenBlaster13 "link title")
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/mFOracFClBg&ab_channel=ScreenBlaster13E/0.jpg)](http://www.youtube.com/watch?v=mFOracFClBg&ab_channel=ScreenBlaster13)
 
 ## Screenshot
 
