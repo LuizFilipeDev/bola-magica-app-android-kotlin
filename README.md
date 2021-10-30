@@ -14,4 +14,4 @@ https://user-images.githubusercontent.com/74942532/139540439-ab22f009-21ae-496b-
 
 ## Sobre
 
-Aplicação desenvolvida utilizando o Android Studio.
+Aplicação desenvolvida utilizando as seguintes tecnologias: Android Studio e Kotlin.
