@@ -9,7 +9,9 @@ import kotlin.random.Random
 
 class MainActivity : AppCompatActivity() {
 
-    val resposta = arrayOf("Sim", "Não", "Talvez")
+    val resposta = arrayOf("Sim", "Não", "Talvez", "Tudo aponta para sim",
+                           "Não posso prever agora", "Não conte com isso",
+                           "É melhor eu não te contar agora", "As perspectivas não são boas")
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -22,7 +24,7 @@ class MainActivity : AppCompatActivity() {
 
         botao.setOnClickListener{
 
-            numeroRandomico = Random.Default.nextInt(until = 3)
+            numeroRandomico = Random.Default.nextInt(until = 8)
 
             if(textoPergunta.text.isNotEmpty())
             {
