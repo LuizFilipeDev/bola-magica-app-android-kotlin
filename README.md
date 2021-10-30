@@ -15,4 +15,4 @@ https://user-images.githubusercontent.com/74942532/139540439-ab22f009-21ae-496b-
 
 ## Sobre
 
-Aplicação desenvolvida na plataforma do Android Studio.
+Aplicação desenvolvida utilizando o Android Studio.
